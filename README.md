@@ -2,10 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Goal
 
-Exercise use of React/Redux and unit testing
+Exercise use of React/Redux and unit testing.
+
+Also... to give socially awkward cat lovers the platform they've needed for so long.
 
 ## Libraries Used
 
-[x] React
-[ ] Redux
-[ ] Jest/Enzyme
+- [x] React
+- [ ] Redux
+- [ ] Jest/Enzyme
