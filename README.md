@@ -9,5 +9,6 @@ Also... to give socially awkward cat lovers the platform they've needed for so l
 ## Libraries Used
 
 - [x] React
-- [ ] Redux
+- [x] Redux
 - [ ] Jest/Enzyme
+- [ ] Styled components
